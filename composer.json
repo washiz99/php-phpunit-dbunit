@@ -1,0 +1,8 @@
+{
+    "name": "washiz99/php-phpunit-dbunit",
+    "description": "PHP PHPUnit and DBUnit base structure.",
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "kornrunner/dbunit": "^5.0" 
+    }
+}

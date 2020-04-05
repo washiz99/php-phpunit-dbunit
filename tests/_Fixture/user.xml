@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<dataset>
+    <table name="user">
+        <column>id</column>
+        <column>name</column>
+        <column>email</column>
+        <column>password</column>
+        <row>
+            <value>1</value>
+            <value>Taro</value>
+            <value>taro@test.co.jp</value>
+            <value>pass</value>
+        </row>
+        <row>
+            <value>2</value>
+            <value>Jiro</value>
+            <value>jiro@test.co.jp</value>
+            <value>pass2</value>
+        </row>
+    </table>
+</dataset>
